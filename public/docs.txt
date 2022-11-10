@@ -1,0 +1,5 @@
+composer require api-platform/core
+
+upgrade to symfony 5.4
+
+
